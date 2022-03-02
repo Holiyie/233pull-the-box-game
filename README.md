@@ -85,6 +85,10 @@ This is a project that write by C,which is a easy pull box game with visible GUI
 
 详见代码文件
 
+![图片](https://user-images.githubusercontent.com/45117470/156296523-dabe690f-e8f9-4fcd-8267-29d0914f7afb.png)
+
+
+
 2.遇到的问题及其解决办法
 
 （1）地图数据处理和存放问题
